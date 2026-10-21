@@ -1,0 +1,10 @@
+2026-10-01 08:02 Controller C-12 offline, no heartbeat
+2026-10-01 08:15 Reader R-3 NTP time drift 94 seconds
+2026-10-01 09:40 Controller C-07 TLS certificate expired
+2026-10-01 10:05 Gate G-2 loop detector fault
+2026-10-01 10:30 Reader R-9 communication timeout
+2026-10-01 11:12 Controller C-12 offline, no heartbeat
+2026-10-01 12:47 Reader R-3 NTP time drift 130 seconds
+2026-10-01 13:20 Controller C-04 database sync failed
+2026-10-01 14:05 Gate G-5 barrier arm stuck open
+2026-10-01 15:33 Controller C-07 TLS certificate expired
